@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvan55&label=Profile%20views&color=0e75b6&style=flat" alt="emin-elvan55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminoecal" alt="eminoecal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvan55" alt="emin-elvan55" /></a> </p>
 
-- 🔭 I’m currently working on [ConnectGronau & LifeLine](https://github.com/eminoecal/ConnectGronau)
+- 🔭 I’m currently working on [ConnectGronau & LifeLine](https://github.com/elvan55/ConnectGronau)
 
 - 🌱 I’m currently learning **Lua & ReactJS**
 
