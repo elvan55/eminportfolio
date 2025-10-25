@@ -24,8 +24,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminoecal&show_icons=true&locale=en&layout=compact" alt="emin-elvan55" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvan55&show_icons=true&locale=en&layout=compact" alt="emin-elvan55" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminoecal&show_icons=true&locale=en" alt="eminoecal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvan55&show_icons=true&locale=en" alt="emin-elvan55" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminoecal&" alt="eminoecal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvan55&" alt="emin-elvan55" /></p>
