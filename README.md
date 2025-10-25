@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A full-stack developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eminoecal&label=Profile%20views&color=0e75b6&style=flat" alt="eminoecal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elvan55&label=Profile%20views&color=0e75b6&style=flat" alt="emin-elvan55" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminoecal" alt="eminoecal" /></a> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Lua & ReactJS**
 
-- 🤝 I’m looking for help with [ConnectGronau](https://github.com/eminoecal/ConnectGronau)
+- 🤝 I’m looking for help with [ConnectGronau](https://github.com/elvan55/ConnectGronau)
 
-- 👨‍💻 All of my projects are available at [https://github.com/eminoecal/eminoecal](https://github.com/eminoecal/eminoecal)
+- 👨‍💻 All of my projects are available at [https://github.com/elvan55/eminportfolio](https://github.com/elvan55/eminportfolio)
 
 - 📫 How to reach me **eminoc0505@gmail.com**
 
